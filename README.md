@@ -1,27 +1,44 @@
-AI Website Auditor Pro
-AI Website Auditor Pro is a project designed to help businesses identify growth opportunities through automated website analysis.
+# AI Website Auditor Pro
 
-Features:
+AI Website Auditor Pro is an AI-assisted project that aims to simplify website analysis for businesses.
 
-SEO Audit
-Conversion Audit
-Trust Audit
-Automation Audit
-Lead Generation Audit
+The project explores how AI and automation can help generate website improvement recommendations.
 
-Outputs:
+## Current Focus
 
-Text Reports
-PDF Reports
-Dashboard Reports
-Outreach Email Drafts
+- Website data collection
+- AI-powered analysis
+- Workflow automation using n8n
+- Report generation
 
-Purpose
+## Planned Areas of Analysis
 
-The goal is to provide businesses with actionable recommendations to improve their online presence and generate more leads.
+- SEO
+- Website Trust Signals
+- Conversion Opportunities
+- Automation Opportunities
+- Lead Generation Opportunities
 
-Status
-🚧 Currently in Development
+## Tech Stack
 
-Author
-Lan Mislang Mechanical Engineering Student Technological Institute of the Philippines
+- n8n
+- AI Models
+- Website Analysis Tools
+
+## Status
+
+🚧 Early MVP Development
+
+## Why I Built This
+
+Many businesses struggle to identify website improvements that could help generate more leads and improve online visibility.
+
+This project explores how AI and automation can simplify website audits and provide actionable recommendations.
+
+## Author
+
+**Lan Exequiel Mislang**
+
+Mechanical Engineering Student
+
+Technological Institute of the Philippines
